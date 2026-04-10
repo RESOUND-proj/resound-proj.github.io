@@ -2,7 +2,10 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'resources']
+
+function getSectionNames() {
+    return Array.from(document.querySelectorAll('.main-body[id$="-md"]')).map(el => el.id.replace(/-md$/, ''));
+}
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -49,7 +52,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
     // Marked
     marked.use({ mangle: false, headerIds: false })
-    section_names.forEach((name, idx) => {
+    getSectionNames().forEach((name, idx) => {
         fetch(content_dir + name + '.md')
             .then(response => response.text())
             .then(markdown => {
