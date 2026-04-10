@@ -18,7 +18,7 @@ Conclusion: RESOUND was evaluated using urban sound data from the SONYC dataset 
 - Develop open-source tools for soundscape monitoring and barrier detection.
 - Support communities with science-based strategies for bird-friendly cities.
 
-
+<br><br>
 
 #### Contact
 
