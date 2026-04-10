@@ -1,6 +1,6 @@
-RESOUND is an interdisciplinary research project focused on understanding how urban soundscapes shape bird movement, habitat connectivity, and species resilience.
+RESOUND is a high school research project focused on understanding how human generated noise shapes long-term bird movement and habitat loss.
 
-
+<br><br>
 
 #### Project Abstract
 
@@ -10,7 +10,7 @@ Procedure:  This paper presents RESOUND, a framework for inferring the impact of
 
 Conclusion: RESOUND was evaluated using urban sound data from the SONYC dataset and pilot acoustic deployments in a suburban park in Naperville, Illinois and forest preserve in Warrenville, IL. Example results demonstrate that RESOUND provides a scalable and interpretable approach for assessing the ecological impact of human-generated noise and supports the integration of sound data into urban ecological analysis.
 
-
+<br><br>
 
 #### Objectives
 
