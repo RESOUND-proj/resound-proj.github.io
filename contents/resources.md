@@ -1,7 +1,7 @@
 #### Acknowledgements
-
-Thanks to Dr. Weijian Zheng for continuous support and Professor Trevor Price for advice and guidance.
 <br><br>
+Thanks to Dr. Weijian Zheng for continuous support and Professor Trevor Price for advice and guidance.
+
 <br><br>
 <div class="d-flex flex-wrap gap-2 mb-4">
   <a class="btn btn-primary" href="static/assets/RESOUND_paper.pdf" download>Download RESOUND Paper (PDF)</a>
